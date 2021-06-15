@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pb Bank</string>
+    <string name="gender_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the pet is male [CHAR LIMIT=20] -->
+    <string name="gender_male">Male</string>
+
+    <!-- Label for dropdown menu option if the pet is female [CHAR LIMIT=20] -->
+    <string name="gender_female">Female</string>
+
+        <string-array name="numbers">
+            <item>Users</item>
+            <item>Jayesh Bhanudas Wani</item>
+            <item>Rahul Rajendra Kadam</item>
+            <item>Sanket Pandharinath Rathod</item>
+            <item>Vaibhav Rajesh Chirde</item>
+            <item>Tanmay Bhagwat Chaudhari</item>
+            <item>Sushrut Rajesh Babhulkar</item>
+            <item>Abhishek Rupchand Thakare</item>
+            <item>Khilesh Pramod Chaudhari</item>
+            <item>Prasad Bhanudas Chaudhari</item>
+            <item>Deepak Pramod Chaudhari</item>
+        </string-array>
+</resources>
